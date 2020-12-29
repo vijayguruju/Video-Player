@@ -1,0 +1,6 @@
+framework module Pods_Player_Task_Player_TaskUITests {
+  umbrella header "Pods-Player Task-Player TaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

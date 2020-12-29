@@ -1,0 +1,6 @@
+framework module Pods_Player_Task {
+  umbrella header "Pods-Player Task-umbrella.h"
+
+  export *
+  module * { export * }
+}

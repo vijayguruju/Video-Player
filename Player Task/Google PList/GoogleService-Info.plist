@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>145759124071-4as600neig2jg552cf604ip142j7qc8m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.145759124071-4as600neig2jg552cf604ip142j7qc8m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0F_L3VvMBzWI2zK5_oP_t-Uh-y_Ua_Ww</string>
+	<key>GCM_SENDER_ID</key>
+	<string>145759124071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.PlayerTask.vijay</string>
+	<key>PROJECT_ID</key>
+	<string>video-player-63d39</string>
+	<key>STORAGE_BUCKET</key>
+	<string>video-player-63d39.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:145759124071:ios:02b4fcb12e3858be9d32c2</string>
+</dict>
+</plist>
